@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Android Joke Display</string>
+    <string name="joke_of_day">Joke of the day:</string>
+    <string name="error_joke_empty">Error: Joke empty.</string>
+    <string name="error_intent_empty">Error: Intent Empty.</string>
+</resources>
